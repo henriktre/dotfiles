@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+
+# # Java Version Manager
+# [ -s "/Users/henriktrehjorningen/.jabba/jabba.sh" ] && source "/Users/henriktrehjorningen/.jabba/jabba.sh"
+# # Java  Environment Manager
+# export PATH="$HOME/.jenv/bin:$PATH"
+# eval "$(jenv init -)"
+# # PHP Version Manager
+# [[ -e ~/.phpbrew/bashrc ]] && source ~/.phpbrew/bashrc
+# #Ruby Version Manager
+# [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
+# source ~/code/z/z.sh
+# # Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
+# export PATH="$PATH:$HOME/.rvm/bin"
