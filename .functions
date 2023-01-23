@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+neofetch
 function reload {
     source ~/.zshrc
 }
@@ -18,4 +18,7 @@ function coffee {
             echo "$(< ~/.coffee wc -l) cups of coffee logged to date"
         fi
     fi
+}
+function git-local-prune {
+    ./git-local-prune.sh
 }
